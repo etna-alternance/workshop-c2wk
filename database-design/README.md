@@ -8,8 +8,7 @@ Concevoir un modèle de base de données relationnelle efficace pour un service 
 Quelques outils qui peuvent être utiles pour concevoir votre base de données :
 
 - Lucidchart : Un outil populaire de création de diagrammes.
-- Draw.io : Outil gratuit et open-source pour la création de diagrammes ER.
-
+- dbdiagram.io : Outil gratuit et open-source pour la création de diagrammes ER.
 
 ## **Étape 1 : Identifier les fonctionnalités clés**
 
