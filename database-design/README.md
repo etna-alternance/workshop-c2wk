@@ -1,6 +1,5 @@
 # Workshop 🎵 : Construire une base de données relationnelle pour un service de musique similaire à Spotify
 
-
 ## 🏆 **Objectif**
 Concevoir un modèle de base de données relationnelle efficace pour un service de streaming musical. Cet atelier vous guidera dans la définition des fonctionnalités, l'identification des entités et de leurs attributs, et la modélisation des interactions entre elles.
 
@@ -21,28 +20,22 @@ Voici les principales fonctionnalités que notre service de type Spotify prendra
 6. 💿 **Albums et artistes** : Les chansons sont regroupées dans des albums et liées à des artistes.
 7. 🕒 **Historique d'écoute** : Suivre les chansons récemment écoutées.
 
-
 ## **Étape 2 : Définir les objets et les attributs**
 
 ### 🎶 **1. Chanson**
 Représente une piste individuelle.
 
-
 ### 📋 **2. Liste de lecture**
 Une collection de chansons créée par l'utilisateur.
-
 
 ### 👤 **3. Utilisateur**
 Représente les titulaires de comptes du service.
 
-
 ### 💿 **4. Album**
 Représente une collection de chansons d'un artiste.
 
-
 ### 🎤 **5. Artiste**
 Représente un artiste individuel ou un groupe.
-
 
 ## **Étape 3 : Modéliser les relations**
 
